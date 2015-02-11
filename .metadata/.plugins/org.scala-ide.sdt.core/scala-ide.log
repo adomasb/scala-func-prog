@@ -1,0 +1,17 @@
+2015-02-11 12:29:00,835  WARN [Worker-1] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:29:00,836  WARN [Worker-1] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:29:29,601  WARN [Worker-1] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:29:29,601  WARN [Worker-1] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:30:29,595  WARN [Worker-0] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:30:29,595  WARN [Worker-0] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:31:01,649 ERROR [Worker-0] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-02-11 12:31:01,649 ERROR [Worker-0] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-02-11 12:31:01,649 ERROR [Worker-0] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-02-11 12:31:37,994  WARN [Worker-5] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:31:37,994  WARN [Worker-5] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:31:39,670  WARN [Worker-1] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:31:39,671  WARN [Worker-1] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:32:42,205  WARN [Worker-5] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:32:42,205  WARN [Worker-5] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-11 12:32:43,313  WARN [Worker-1] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-11 12:32:43,314  WARN [Worker-1] - ScalaProject - Project HelloWorld runs on platform default installation.

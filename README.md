@@ -1,0 +1,2 @@
+Scala course from Coursera
+---------------------------
