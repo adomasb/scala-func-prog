@@ -1,18 +1,3 @@
 INDEX VERSION 1.127+/home/adomas/scala-func-prog/.metadata/.plugins/org.eclipse.jdt.core
-1513993030.index
-2307328643.index
-664741535.index
-4273726312.index
-460152253.index
-3910352787.index
-3938652823.index
-2598035366.index
-1417682329.index
-1259291233.index
-2259717368.index
 3927879410.index
-989528713.index
-2426646370.index
-3542660237.index
-392775124.index
-3900037835.index
+3866987050.index
