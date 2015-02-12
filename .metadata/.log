@@ -194,3 +194,12 @@ Caused by: org.eclipse.swt.SWTException: Widget is disposed
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
 	... 74 more
+!SESSION 2015-02-12 12:39:29.687 -----------------------------------------------
+eclipse.buildId=4.0.0-vfinal-20150119-1023-Typesafe
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.scala-ide.sdt.core 2 0 2015-02-12 13:35:08.243
+!MESSAGE Preference scala.compiler.sourceLevel was uninitialized for progfun-example, setting default to 2.11.

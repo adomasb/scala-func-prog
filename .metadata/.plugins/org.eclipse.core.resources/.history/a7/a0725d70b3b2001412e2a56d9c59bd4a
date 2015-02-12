@@ -1,0 +1,12 @@
+package example
+
+object listsSheet {
+
+  val xs = List(1, 2, 3)
+  val ans = 0
+  def sum(xs: List[Int]): Int = 1
+  if (xs.isEmpty) ans
+  else {
+    ans = ans + xs.head
+  }
+}

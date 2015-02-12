@@ -157,3 +157,36 @@ Standard error:
 2015-02-11 17:47:34,052  WARN [Worker-33] - ScalaProject - Project progfun runs on platform default installation.
 2015-02-11 17:47:35,070  WARN [Worker-32] - ScalaProject - Project progfun has platform default sourceLevel.
 2015-02-11 17:47:35,071  WARN [Worker-32] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:29:42,399  WARN [main] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:29:42,399  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:29:42,400  WARN [main] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:29:42,400  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:29:42,512  WARN [main] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 12:29:42,512  WARN [main] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 12:29:42,986  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:29:42,986  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:30:25,722  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:30:25,723  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:30:26,190  WARN [Worker-3] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 12:30:26,192  WARN [Worker-3] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 12:31:13,734  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:31:13,734  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:32:15,981  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-02-12 12:32:15,982  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-02-12 12:39:41,342  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:39:41,343  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:39:41,345  WARN [main] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:39:41,346  WARN [main] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:39:41,428  WARN [main] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 12:39:41,428  WARN [main] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 12:39:41,975  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 12:39:41,975  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 12:40:06,020  WARN [ModalContext] - ScalaProject - Project progfun-example has platform default sourceLevel.
+2015-02-12 12:40:06,020  WARN [ModalContext] - ScalaProject - Project progfun-example runs on platform default installation.
+2015-02-12 12:43:24,619 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-02-12 12:43:24,619 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-02-12 12:43:24,619 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2015-02-12 13:35:08,292  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for progfun-example, setting default to 2.11.
+2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
