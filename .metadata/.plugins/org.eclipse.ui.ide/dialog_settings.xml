@@ -7,8 +7,8 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="/home/adomas/scala-func-prog/prog-assignmets/example"/>
 			<item value="/home/adomas/scala-func-prog/recfun"/>
+			<item value="/home/adomas/scala-func-prog/prog-assignmets/example"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

@@ -190,3 +190,49 @@ Standard error:
 2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
 2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
 2015-02-12 13:56:28,730 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:17:12,279  WARN [Worker-2] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 18:17:12,289  WARN [Worker-2] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 18:17:12,279  WARN [Worker-3] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 18:17:12,298  WARN [Worker-3] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 18:17:12,403  WARN [Worker-2] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 18:17:12,403  WARN [Worker-2] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 18:17:12,417  WARN [Worker-3] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 18:17:12,417  WARN [Worker-3] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 18:17:20,822  WARN [Worker-0] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 18:17:20,822  WARN [Worker-0] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 18:17:32,854  WARN [Worker-0] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 18:17:32,855  WARN [Worker-0] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 18:24:30,563 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:24:30,564 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:24:31,835 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:24:31,836 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:24:31,836 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:28:01,670  WARN [ModalContext] - ScalaProject - Project recfun has platform default sourceLevel.
+2015-02-12 18:28:01,670  WARN [ModalContext] - ScalaProject - Project recfun runs on platform default installation.
+2015-02-12 18:29:00,105  WARN [Worker-13] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 18:29:00,105  WARN [Worker-13] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 18:29:05,221  WARN [Worker-13] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 18:29:05,221  WARN [Worker-13] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 18:29:58,898  WARN [main] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 18:29:58,899  WARN [main] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 18:29:58,938  WARN [main] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 18:29:58,938  WARN [main] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 18:30:01,144  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for recfun, setting default to 2.11.
+2015-02-12 18:30:01,152  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for recfun, setting default to 2.11.
+2015-02-12 18:32:19,683 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:32:19,685 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 18:34:16,167  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-02-12 19:25:46,319 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 19:25:46,347 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 19:51:24,859  WARN [Worker-5] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-02-12 19:51:24,884  WARN [Worker-5] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-02-12 19:51:24,983  WARN [Worker-5] - ScalaProject - Project progfun has platform default sourceLevel.
+2015-02-12 19:51:24,983  WARN [Worker-5] - ScalaProject - Project progfun runs on platform default installation.
+2015-02-12 19:53:07,407 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 19:53:07,408 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-02-12 19:53:07,408 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException

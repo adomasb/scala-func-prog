@@ -47,5 +47,16 @@ object Lists {
    * @return The largest element in `xs`
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
-  def max(xs: List[Int]): Int = 1
+  def max(xs: List[Int]) = {
+    val maxValue = 0
+    def maximum(maxValue: Int, xs: List[Int]): Int = {
+      if (xs.isEmpty) maxValue
+      else maximum(compare(maxValue, xs), xs.tail)
+    }
+    def compare(maxValue: Int, xs: List[Int]) = {
+      if (maxValue >= xs.head) maxValue
+      else xs.head
+    }
+    maximum(maxValue, xs)
+  }
 }

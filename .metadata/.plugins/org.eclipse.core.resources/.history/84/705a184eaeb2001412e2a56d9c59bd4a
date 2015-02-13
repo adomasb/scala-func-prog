@@ -1,8 +1,0 @@
-package example
-
-object listsSheet {
-
-	val xs = List(1, 2, 3)
-  def sum(xs: List[Int]): Int = 1
-      if (xs.isEmpty) println("haha") else println("nenen")
-}

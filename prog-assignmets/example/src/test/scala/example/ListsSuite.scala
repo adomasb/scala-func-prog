@@ -47,7 +47,7 @@ class ListsSuite extends FunSuite {
    * This allows tests to be written in a more readable manner:
    */
   test("one plus one is three?") {
-    assert(1 + 1 == 3) // This assertion fails! Go ahead and fix it.
+    assert(1 + 1 === 3)
   }
 
 
@@ -118,7 +118,16 @@ class ListsSuite extends FunSuite {
     assert(sum(List(1,2,0)) === 3)
   }
   
+  test("sum of a empty list") {
+    assert(sum(List(0, 0, 0)) === 0)
+  }
+  
+    test("sum of a zero") {
+    assert(sum(List(-1, 1)) === 0)
+  }
+  
   test("max of a few numbers") {
     assert(max(List(3, 7, 2)) === 7)
   }
+  
 }
