@@ -31,5 +31,8 @@ def diff(s: Set, t: Set): Set = (x: Int) => contains(s, x) & !contains(t, x)
 contains(diff(s, t), 1)
 
 // filtering
-def filter(s: Set, p: Int => Boolean): Set = (x: Int) => s(x) & p == x
+def filter(s: Set, p: Int => Boolean): Set = (x: Int) => s(x) & p(x)
 
+
+
+s(2)
